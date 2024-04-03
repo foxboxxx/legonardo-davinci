@@ -26,7 +26,7 @@ Gui - Built and designed all aspects of the printer itself including the vacuum 
       moving stepper motors on the MangoPi.
 
 ## References
-Inspiration: 
+Inspiration: https://www.youtube.com/watch?v=Y4neo4fRw2M
 
 All code was original work by us.
 
