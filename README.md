@@ -21,6 +21,7 @@ Joe - Wrote software for processing input images, scaling them up and down, crop
       on the MangoPi (only Python/non-baremetal aspect being the image conversion from downloads on laptop to bitmaps.c file).
       Additionally, wrote the user interface for the printer including the title splash screen, menu consisting of loaded images
       on the printer, and interface while printing.
+      
 Gui - Built and designed all aspects of the printer itself including the vacuum mechanism, LEGO feeders/storage containers, and 
       CNC machine which was repurposed for thie project. Additionally, wired all of the mechanisms together and wrote drivers for 
       moving stepper motors on the MangoPi.
