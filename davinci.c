@@ -33,21 +33,14 @@ void main(void) {
     timer_init();
     uart_init();
 
-    // ----- BUTTON TEST
+    // Printer Initialization:
     configure_steppers();
     configure_limit_switches();
     configure_vacuum();
-    // ----- BUTTON TEST
 
-
+    // Keyboard Initialization:
     keyboard_init(KEYBOARD_CLOCK, KEYBOARD_DATA);
-
-    // Shell Initialization:
-    // console_init(30, 80, GL_GREEN, GL_BLACK);
-    // shell_init(keyboard_read_next, console_printf);
-    // interrupts_global_enable();
-    // shell_run();
-
+    
     // Printer Initialization:
     printer_init(keyboard_read_next);
     interrupts_global_enable();
