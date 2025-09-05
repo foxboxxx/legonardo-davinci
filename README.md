@@ -1,14 +1,14 @@
 ## Project Title
-LEGONARDO DAVINCI
+LEGOnardo DaVinci
 
 ## Team Members
 Joe Robertazzi & Gui Suranyi
 
 ## Project Description
 Have you ever tried using Cardinal Print to print a final review sheet and have it fail on you? Do you HATE paying for 
-paper and ink every time you want a cute cat picture? Well, if so, LEGONARDO DAVINCI may be the product for you! 
+paper and ink every time you want a cute cat picture? Well, if so, LEGOnardo DaVinci may be the product for you! 
 
-LEGONARDO DAVINCI is a printer that creates scaled-down images using LEGO as ink. First, users can upload their images to
+LEGOnardo DaVinci is a printer that creates scaled-down images using LEGO as ink. First, users can upload their images to
 our printing library via laptop (anything downloaded on your computer will convert and add to the library) via Python script.
 Then, once uploaded, the program and printer are all run on a MangoPi which provides the user with an interface to select 
 which image they want to print, the scale at which they want it to print, and the color map they want to use for said print.
