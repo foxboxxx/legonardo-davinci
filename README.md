@@ -2,7 +2,7 @@
 LEGOnardo DaVinci
 
 ## Media
-![Final Device](pics_n_vids/mango_main_screen.jpeg)
+![Final Device](pics_n_vids/SCR-20251008-n7s.jpeg)
 
 ## Team Members
 Joe Robertazzi & Gui Suranyi
