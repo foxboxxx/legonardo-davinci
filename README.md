@@ -1,6 +1,9 @@
 ## Project Title
 LEGOnardo DaVinci
 
+## Media
+![Final Device](pics_n_vids/mango_main_screen.jpeg)
+
 ## Team Members
 Joe Robertazzi & Gui Suranyi
 
